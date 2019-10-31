@@ -13,8 +13,27 @@ The goal of this asignment was to make a servo move using capacitive touch using
 ### Lessons
 I learned that capacitive touch is when the metro can detect and make the servo move when you touch wires. I also learned how to move a servo on CircuitPython. 
 ## CircuitPython LCD
+### Objective
+### Pictures
+### Lessons
 ## CircuitPython Photointerrupters
+### Objective
+### Pictures
+### Lessons
 ## CircuitPython Distance Sensor
+### Objective
+### Pictures
+### Lessons
 ## Classes Objects and Modules
+### Objective
+### Pictures
+### Lessons
 ## Hello VS Code
+### Objective
+### Pictures
+### Lessons
 ## Fancy LED
+### Objective
+### Pictures
+### Lessons
+
